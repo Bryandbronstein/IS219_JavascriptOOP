@@ -1,3 +1,5 @@
+const Person = require("./person");
+
 class Employee extends Person{
     constructor(company, position, salary, firstName, lastName) {
         super(firstName, lastName);

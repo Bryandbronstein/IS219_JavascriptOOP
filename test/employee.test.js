@@ -1,4 +1,4 @@
-const Employee = require('employee');
+const Employee = require('../classes/employee');
 
 describe('Employee class test: ', ()=> {
     test(

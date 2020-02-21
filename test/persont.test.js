@@ -1,4 +1,4 @@
-const Person = require('person');
+const Person = require('../classes/person');
 
 describe('Person class test: ', ()=> {
     test(
